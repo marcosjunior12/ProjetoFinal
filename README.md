@@ -8,10 +8,9 @@
  - Após o acionamento da lâmpada, as temperaturas continuarão sendo lidas pelo DHT 11, assim, quando atingir a temperatura ideal a lâmpada poderá ser desligada por quem estiver realizando o monitoramento.
  
  
- <b> MATERIAIS UTILIZADOS </B>
- 
- -ESP8266 (Versão ESP-01)
-   -É um microcontrolador com capacidade de conexão WIFI, sendo que não necessita nenhum módulo externo para conectar com a rede sem fio. O chip é de baixo custo e é encontrado soldado em módulos com a 
+ <b> MATERIAIS UTILIZADOS:</B>
+ -ESP8266 (Versão ESP-01):
+  -É um microcontrolador com capacidade de conexão WIFI, sendo que não necessita nenhum módulo externo para conectar com a rede sem fio. O chip é de baixo custo e é encontrado soldado em módulos com a 
 
  
  
