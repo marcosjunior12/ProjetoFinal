@@ -10,4 +10,8 @@
  
  <b> MATERIAIS UTILIZADOS </B>
  
+ -ESP8266 (Versão ESP-01)
+   -É um microcontrolador com capacidade de conexão WIFI, sendo que não necessita nenhum módulo externo para conectar com a rede sem fio. O chip é de baixo custo e é encontrado soldado em módulos com a 
+
+ 
  
