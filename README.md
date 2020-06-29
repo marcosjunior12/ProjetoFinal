@@ -37,5 +37,5 @@ Seu funcionamento é simples, o publicador envia a mensagem ao broker, que enfil
    - VCC: o pino positivo é ligado na alimentação de 5V para o funcionamento correto do relé.
    - GND: É ligado ao aterramento do sistema.
    - IN: É um pino que ligado ao ESP 01, controla o ativamento do relé, neste projeto ele é ligado ao transistor 2N2222, pois esse transistor foi utilizado como uma chave para o acionamento do relé.
- <br> <h2> Você pode encontrar todo o detalhamento de como as peças foram interligadas na aba "Esquemáticos"</h2><br>
+ <br> <h2> Você pode encontrar todo o detalhamento de como as peças foram interligadas na aba <a href=https://github.com/marcosjunior12/ProjetoFinal/tree/master/Esquemáticos> ""Esquemáticos"</a></h2><br>
  
