@@ -8,5 +8,6 @@
  - Após o acionamento da lâmpada, as temperaturas continuarão sendo lidas pelo DHT 11, assim, quando atingir a temperatura ideal a lâmpada poderá ser desligada por quem estiver realizando o monitoramento.
  
  
+ <b> MATERIAIS UTILIZADOS </B>
  
- Os esquemáticos foram feitos utilizando o software Fritzing, para facilitar o entendimento da montagem do hardware.
+ 
